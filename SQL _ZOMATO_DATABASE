@@ -1,3 +1,4 @@
+# queries for creating the Data Base 
 
 -- Create goldusers_signup table
 DROP TABLE IF EXISTS goldusers_signup;
