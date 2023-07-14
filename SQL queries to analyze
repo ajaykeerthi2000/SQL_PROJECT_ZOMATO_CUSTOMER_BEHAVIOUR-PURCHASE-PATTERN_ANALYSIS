@@ -1,0 +1,16 @@
+SQL queries to analyze the data and gain insights into customer behavior and transaction patterns. These queries include:
+
+1. Total amount each customer spent on Zomato.
+2. Number of days each customer visited Zomato.
+3. First product purchased by each customer.
+4. Most purchased item on the menu and its total number of purchases.
+5. Most popular item for each customer.
+6. Item purchased first by a customer after becoming a Gold member.
+7. Item purchased just before a customer became a Gold member.
+8. Total orders and amount spent by each member before becoming a Gold member.
+9. Points earned by each customer and the product that generated the most points.
+10. Points earnings for customers in their first year as Gold members.
+11. Ranking all transactions of customers.
+12. Ranking transactions for each customer during their Gold membership period.
+
+Please refer to the SQL statements provided in the project files for the complete queries.
