@@ -1,4 +1,4 @@
-SQL queries to analyze the data and gain insights into customer behavior and transaction patterns. These queries include:
+## SQL queries to analyze the data and gain insights into customer behavior and transaction patterns. These queries include:
 
 1. Total amount each customer spent on Zomato.
 2. Number of days each customer visited Zomato.
