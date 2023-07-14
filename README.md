@@ -12,6 +12,7 @@ The project utilizes a set of database tables to store relevant data. The follow
 - `product`: Contains information about the available products, including the product ID, product name, and price.
 
 
+## Tool Used
 
-Please refer to the SQL statements provided in the project files for the complete queries.
+MySQL WorkBench
 
